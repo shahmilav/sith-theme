@@ -15,6 +15,9 @@ Red and black theme inspired by the dark side of the force.
 | Cyan    | #f55d3f | #f55d3f |
 | White   | #e6382b | #e6382b |
 
+## Supported Applications
+* iTerm2
+
 ## Coming Soon...
 
 **_JEDI THEME_**: A theme inspired by the light side, designed to complement SITH THEME
